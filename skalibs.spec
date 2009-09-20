@@ -1,6 +1,6 @@
 Name:			skalibs
 Version:		0.47
-Release:		%mkrel 1
+Release:		%mkrel 2
 
 Summary:	The skarnet.org development library
 License:	BSD
