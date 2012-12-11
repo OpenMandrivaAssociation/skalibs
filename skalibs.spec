@@ -75,3 +75,23 @@ popd
 %{_includedir}/%{name}/*.h
 %{_libdir}/%{name}/*.a
 
+
+
+%changelog
+* Sun Sep 20 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.47-2mdv2010.0
++ Revision: 445130
+- rebuild
+
+* Sun Oct 26 2008 Funda Wang <fundawang@mandriva.org> 0.47-1mdv2009.1
++ Revision: 297428
+- New version 0.47
+
+* Fri Aug 08 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.46-2mdv2009.0
++ Revision: 269251
+- rebuild early 2009.0 package (before pixel changes)
+
+* Wed May 07 2008 Vincent Danen <vdanen@mandriva.com> 0.46-1mdv2009.0
++ Revision: 202905
+- import skalibs
+
+
