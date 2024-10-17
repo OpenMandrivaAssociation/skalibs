@@ -7,7 +7,7 @@ Version:	0.47
 Release:	4
 License:	BSD
 Group:		Development/Other
-Url:		http://www.skarnet.org/software/skalibs/
+Url:		https://www.skarnet.org/software/skalibs/
 Source0:	http://www.skarnet.org/software/%{name}/%{name}-%{version}.tar.gz
 
 %description
